@@ -1,0 +1,6 @@
+@Recruitment.NotificationService_HostAddress = http://localhost:5044
+
+GET {{Recruitment.NotificationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
